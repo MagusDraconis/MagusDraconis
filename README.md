@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagusDraconis
 - 👀 I’m interested in coding C#
-- 🌱 I’m currently learning WPF
+- 🌱 I’m currently learning Blazor
 
 <!---
 MagusDraconis/MagusDraconis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
